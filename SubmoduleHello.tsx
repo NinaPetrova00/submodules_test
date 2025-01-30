@@ -1,7 +1,7 @@
 export function SubmoduleHello() {
     return (
         <div>
-            <h1>Hello from Submodule</h1>
+            <h1>Welcome</h1>
         </div>
     )
 }
